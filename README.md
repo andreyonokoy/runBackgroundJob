@@ -20,7 +20,7 @@ This repository implements a background jobs queue system using Laravel. It allo
 
 ## What Was Implemented
 
-Everything was implemented except for the visual dashboard.
+Everything has been implemented except for the visual dashboard, and my code cannot accept specific functions that it should execute. I believe that function execution does not provide a stable interface for the client code.
 
 
 ## Testing Process
