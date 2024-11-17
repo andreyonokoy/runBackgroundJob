@@ -2,7 +2,6 @@
 
 This repository implements a background jobs queue system using Laravel. It allows you to add, queue, and execute jobs with priority management, custom parameters, and validation.
 
----
 
 ## Installation Process
 
@@ -19,13 +18,10 @@ This repository implements a background jobs queue system using Laravel. It allo
     php artisan migrate
     ```
 
----
-
 ## What Was Implemented
 
 Everything was implemented except for the visual dashboard.
 
----
 
 ## Testing Process
 
@@ -34,7 +30,6 @@ It can be executed in the terminal on both Windows and Linux systems.
 
 In the background, we can run it using cron, AWS EventBridge, Kubernetes CronJobs, or Task Scheduler in Windows.
 
----
 
 ## Command Examples
 
